@@ -5,7 +5,7 @@ Software & Web Developer
 </h3>
 
 <p align="center">
-Soy desarrollador de software y desarrollador web, recientemente graduado, con una sólida base en desarrollo frontend y programación.
+Soy desarrollador de software y desarrollador web, con una sólida base en desarrollo frontend y programación.
 Me caracterizo por el compromiso, la responsabilidad y el interés constante en aprender nuevas tecnologías y buenas prácticas de desarrollo.
 Tengo experiencia trabajando con tecnologías web fundamentales, enfocándome en crear interfaces claras, funcionales y mantenibles.
 </p>
@@ -15,9 +15,9 @@ Tengo experiencia trabajando con tecnologías web fundamentales, enfocándome en
 <h3 align="left">📫 Connect with me:</h3>
 
 <p align="left">
-📞 <strong>Phone:</strong> +57 300 000 0000 <br>
-📧 <strong>Email:</strong> tucorreo@email.com <br>
-💼 <strong>GitHub:</strong> <a href="https://github.com/tu-usuario" target="_blank">github.com/tu-usuario</a>
+📞 <strong>Phone:</strong> +57 3233317642<br>
+📧 <strong>Email:</strong> Sebastianleong15@gmail.com <br>
+💼 <strong>GitHub:</strong> <a href="https://github.com/S2SEBAS767" target="_blank">https://github.com/S2SEBAS767</a>
 </p>
 
 ---
